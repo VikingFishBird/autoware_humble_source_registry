@@ -1,0 +1,3 @@
+--extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v512 
+h5py==3.10.0
+tensorflow==2.12.0+nv23.06
